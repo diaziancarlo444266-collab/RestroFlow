@@ -28,3 +28,7 @@ yarn-error.log
 /storage/framework/browser-auth.sqlite*
 /test-results
 /playwright-report
+
+# Generated PDF documentation
+/docs/**/*.pdf
+/docs/**/*.docx
