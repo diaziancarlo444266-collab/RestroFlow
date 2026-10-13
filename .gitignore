@@ -29,6 +29,5 @@ yarn-error.log
 /test-results
 /playwright-report
 
-# Generated PDF documentation
-/docs/**/*.pdf
-/docs/**/*.docx
+# Local documentation
+/docs/
